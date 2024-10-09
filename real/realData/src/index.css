@@ -1,0 +1,56 @@
+.container {
+  text-align: center;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+.header {
+  background-color: #fceba4;
+  padding: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 36px;
+  color: #3174ad;
+}
+
+.nav {
+  background-color: #f9da83;
+  padding: 10px;
+}
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.nav li {
+  margin: 0 15px;
+}
+
+.nav a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #3174ad;
+}
+
+.main-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+
+.text-content {
+  margin-left: 20px;
+}
+
+.text-content p {
+  font-size: 18px;
+  text-align: left;
+  line-height: 1.5;
+}
