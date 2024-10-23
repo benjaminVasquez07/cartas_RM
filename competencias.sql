@@ -6,3 +6,4 @@ CREATE TABLE Competencias (
     id_Titulo INT,
     FOREIGN KEY (id_Titulo) REFERENCES Titulos(id_Titulo)
 );
+
