@@ -7,3 +7,5 @@ CREATE TABLE Partidos (
     Goles_Rival INT,
     Estadio TEXT
 );
+INSERT INTO partidos (Rival,Estadio ,)
+VALUES 
