@@ -10,7 +10,7 @@ function App() {
     <div className="container">
 
     <header className="header">
-      <h1>RealMadrir</h1>
+      <h1>Real Madrid</h1>
     </header>
 
     
